@@ -38,7 +38,7 @@
             </li>
             <li class="item col-xs-6 col-md-2">
                 <figure>
-                    <img src="images/gallery/thumbnails/7.jpg" alt="homestay at Kochi"/>
+                    <img src="images/gallery/thumbnails/6.jpg" alt="homestay at Kochi"/>
                     <a href="images/gallery/6.jpg" class="more-details" data-title="AC BedRoom">AC BedRoom</a>
                     <figcaption>
                         <h4>AC<span> BedRoom</span></h4>
