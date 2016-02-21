@@ -2,7 +2,7 @@
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
 <div class="internal-page-title about-page" data-parallax="scroll" data-image-src="images/internal-header.jpg">
-    <h1> <span>Athithi Homes Gallery</span></h1>
+    <h1> <span>Athithi Homes</span> Gallery</h1>
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>
         <li class="active">Gallery</li>

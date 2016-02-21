@@ -16,7 +16,7 @@
 
     <div class="post-container">
         <div class="post-box text-left">
-            <h3> Centrally located area at Ernakulam, Cochin. It is very near to  : </h3>
+            <h3> Centrally located at Ernakulam, Cochin. It is very near to  : </h3>
             <hr>
             <h4><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Vyttila Junction - 3 km</h4>
             <h4><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Kadavanthra Junction - 2 Km</h4>

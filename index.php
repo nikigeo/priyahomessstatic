@@ -12,7 +12,7 @@
 <div id="welcome" class="container">    
     <!-- Heading box -->
     <div class="heading-box">
-        <h1>Welcome to <span>Athithi Homes at Kadavanthra in Ernakulam city</span></h1><!-- Title -->
+        <h1>Welcome to <span>Athithi Homes Kadavanthra, Ernakulam</span></h1><!-- Title -->
         <div class="subtitle" style="color:#000; font-weight:bold;">
             YOUR HOME AWAY FROM HOME
         </div><!-- Subtitle -->

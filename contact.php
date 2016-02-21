@@ -17,7 +17,7 @@
 
 
     <div class="widget col-xs-6 col-md-4 get-in-touch" style="padding:20px;  color:#000;">
-        <h4>Kadavanthra Cochin</h4>
+        <h4>Kadavanthra, Cochin</h4>
         <div class="widget-content">
             <ul>
                 <li  style="color:#000; font-weight:600;"><i class="fa fa-map-marker "></i> Kumaranasan Nagar, Kadavanthra, Kochi</li>

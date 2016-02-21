@@ -1,7 +1,7 @@
 <div id="gallery">
     <!-- Heading box -->
     <div class="heading-box">
-        <h2>Athithi Homestay at Kochi <span>Gallery</span>Photos</h2>
+        <h2>Photo Gallery Athithi Homestay at Kochi</h2>
     </div>
 
     <!-- Gallery Container -->

@@ -2,10 +2,10 @@
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
 <div class="internal-page-title about-page" data-parallax="scroll" data-image-src="images/internal-header.jpg">
-    <h1>About <span>Athithi Homestay at Kadavanthra Kochi, Ernakulam</span></h1>
+    <h1>About <span>Athithi Homestay</span> at Kadavanthra, Kochi</h1>
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>
-        <li class="active">About Athithi homestay Kochi city in Ernakulam</li>
+        <li class="active">About Athithi homestay in Kochi city, Ernakulam</li>
     </ol>
 </div>
 <!-- End of Internal Page Header -->
@@ -14,7 +14,7 @@
 <div id="welcome" class="container">
     <!-- Heading box -->
     <div class="heading-box">
-        <h1>Welcome to <span>Athithi Homestay at Kochi in Ernakulam city</span></h1><!-- Title -->
+        <h1>Welcome to <span>Athithi Homestay at Kochi, Ernakulam</span></h1><!-- Title -->
         <div class="subtitle" style="color:#000; font-weight:bold;">
             YOUR HOME AWAY FROM HOME
         </div><!-- Subtitle -->

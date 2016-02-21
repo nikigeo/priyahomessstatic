@@ -14,6 +14,7 @@
     <div class="heading-box">
         <h1>Testimonials</h1>
     </div>
+    <?php include ('reviewfilereader.php'); ?><!--
     <div class="inner-content">
         <div style=" text-align:left; color:#000; font-weight:400; font-size:16px;">
             <div class="subtitle" style="color:#000; font-weight:bold;"> 13/11/2015 </div>
@@ -54,7 +55,7 @@
                 Thank you for your help.&nbsp; Really appreciate your care. Everything is  perfect in the house.</br>
             </p>
         </div>
-    </div>
+    </div> -->
     <div class="airbnb-promo">
         <a href="https://www.airbnb.com/rooms/9401802" target="_blank">
             <img src="images/logo/airbnb-logo.png" />Click here
