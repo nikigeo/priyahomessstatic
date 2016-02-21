@@ -4,22 +4,22 @@
     <div id="main-slider">
         <div class="items">
             <a href="#" >
-                <img src="images/updated10022016/1.jpg" alt="3"/><!-- Change the URL section based on your image\'s name -->
+                <img src="images/gallery/1.jpg" alt="3"/><!-- Change the URL section based on your image\'s name -->
             </a>
         </div>
         <div class="items">
             <a href="#" >
-                <img src="images/updated10022016/3.jpg" alt="3"/>
+                <img src="images/gallery/3.jpg" alt="3"/>
             </a>
         </div>
         <div class="items" >
             <a href="#" >
-                <img src="images/updated10022016/10.jpg" alt="4"/>
+                <img src="images/gallery/10.jpg" alt="4"/>
             </a>
         </div>
         <div class="items">
             <a href="#" >
-                <img src="images/updated10022016/14.jpg" alt="2"/>
+                <img src="images/gallery/11.jpg" alt="2"/>
             </a>
         </div>
     </div>
