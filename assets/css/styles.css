@@ -1102,7 +1102,7 @@ img {
 
 .img-responsive {
   display: block;
-  max-width: 30%;
+  max-width: 130px;
   height: auto; }
 
 .img-rounded {
@@ -12959,7 +12959,7 @@ input:focus, textarea:focus {
  */
 .heading-box {
   text-align: center;
-  margin: 80px 0; }
+  margin: 60px 0; }
   .heading-box h2 {
     color: #dba752;
     display: inline-block;
@@ -13225,7 +13225,7 @@ blockquote {
   position: absolute;
   z-index: 10;
   width: 100%;
-  height: 100px;
+  height: 90px;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease; }
@@ -13237,7 +13237,7 @@ blockquote {
     #main-header .inner-container {
       padding: 0; } }
   #main-header .inner-container > div {
-    height: 100px;
+    height: 90px;
     padding: 0;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -13253,7 +13253,7 @@ blockquote {
         top: 0;
         background: #dba752;
         width: 3000px;
-        height: 100px;
+        height: 90px;
         -webkit-transition: all 0.3s ease;
         -o-transition: all 0.3s ease;
         transition: all 0.3s ease; }
@@ -13265,7 +13265,7 @@ blockquote {
   #main-header #top-logo {
     float: left;
     text-align: center;
-    height: 100px;
+    height: 75px;
 	margin-top:10px;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
@@ -13299,7 +13299,7 @@ blockquote {
       #main-header #main-menu li a {
         display: block;
         padding: 0 10px;
-        line-height: 100px;
+        line-height: 90px;
         position: relative;
         white-space: nowrap;
         -webkit-transition: all 0.3s ease;
@@ -13717,13 +13717,13 @@ body.sticky #main-header.sticky {
       width: 100%;
       height: 40px; }
   #main-booking-form.style-2 {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.5);
     position: absolute;
-    left: 15px;
-    top: 54%;
+    left: -105px;
+    top: 44%;
     text-align: center;
     color: #333333;
-    width: 380px;
+    width: 330px;
     height: auto;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
@@ -13734,7 +13734,7 @@ body.sticky #main-header.sticky {
     -ms-transform: translateX(0) translateY(-50%);
     -webkit-transform: translateX(0) translateY(-50%);
     transform: translateX(0) translateY(-50%);
-    padding: 50px; }
+    padding: 30px; }
     #main-booking-form.style-2 h2 {
       color: #dba752;
       margin-top: 0; }
@@ -13744,7 +13744,7 @@ body.sticky #main-header.sticky {
       border: 1px solid #dba752;
       background: rgba(255, 255, 255, 0.7);
       color: #333333;
-      height: 50px; }
+      height: 35px; }
       #main-booking-form.style-2 input[type="text"].placeholder, #main-booking-form.style-2 .chosen-container.placeholder, #main-booking-form.style-2 select.placeholder {
         color: #333333; }
       #main-booking-form.style-2 input[type="text"]:-moz-placeholder, #main-booking-form.style-2 .chosen-container:-moz-placeholder, #main-booking-form.style-2 select:-moz-placeholder {
@@ -13792,7 +13792,7 @@ body.sticky #main-header.sticky {
     #main-booking-form.style-2 .booking-button-container {
       padding-top: 9px; }
       #main-booking-form.style-2 .booking-button-container input {
-        height: 50px; }
+        height: 40px; }
   @media (max-width: 992px) {
     #main-booking-form {
       background: #333333;
@@ -14149,7 +14149,7 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
       transform: translateX(-50%) translateY(-50%);
       font-weight: bold;
       display: inline-block;
-      font-size: 26px;
+      font-size: 22px;
       text-align: center; }
       .gallery-container .image-main-box .item figcaption h4 span {
         font-weight: 300; }
@@ -14163,7 +14163,7 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
  */
 #buy-theme {
   background: #f8f9f9;
-  padding: 70px 0; }
+  padding: 40px 0; }
   #buy-theme .inner-container {
     max-width: 900px; }
   #buy-theme .title {
@@ -14193,7 +14193,7 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
   color: #d0d4d7;
   position: relative;
   border-top: 3px solid #dba752;
-  padding: 80px 0; }
+  padding: 15px 0; }
   #top-footer #go-up-box {
     width: 40px;
     height: 40px;
@@ -14259,15 +14259,15 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
         left: 20px;
         top: 40px;
         z-index: -1;
-        background: url(../img/dotted-map.png) 0 0 no-repeat;
+        background: url(../../images/dotted-map.png) 0 0 no-repeat;
         width: 374px;
         height: 201px; }
   #top-footer .widget-content {
     border-left: 1px solid #404040;
     border-right: 1px solid #262626;
     line-height: 25px;
-    padding: 0 40px;
-    min-height: 200px; }
+    padding: 0 30px;
+    min-height: 150px; }
     @media (max-width: 600px) {
       #top-footer .widget-content {
         padding: 0 15px !important;
@@ -14294,14 +14294,14 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
       #top-footer .widget-content .news-letter-form input[type="text"]::-webkit-input-placeholder {
         color: #d0d4d7; }
     #top-footer .widget-content ul li {
-      line-height: 30px;
-      margin-bottom: 15px; }
+      line-height: 20px;
+      margin-bottom: 10px; }
       #top-footer .widget-content ul li i {
         margin-right: 20px;
         color: #dba752;
         font-size: 1.4em; }
     #top-footer .widget-content ul.social-icons {
-      margin-top: 30px; }
+      margin-top: 15px; }
       #top-footer .widget-content ul.social-icons li {
         width: 35px;
         height: 35px;
@@ -14333,7 +14333,7 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
  */
 #footer {
   border-bottom: 2px solid #dba752;
-  padding: 30px;
+  padding: 10px;
   text-align: center; }
   #footer ul li {
     padding: 0; }
@@ -14348,7 +14348,7 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
       #footer ul li a:hover {
         color: #dba752; }
   #footer .copy-right {
-    margin-top: 20px; }
+    margin-top: 5px; }
 
 /**
  * Pages Style
@@ -14361,7 +14361,7 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
   background-size: cover;
   background-position: center;
   text-align: center;
-  padding: 210px 0 110px;
+  padding: 170px 0 70px;
   position: relative;
   z-index: 1;
   border-bottom: 3px solid #dba752; }
@@ -14392,7 +14392,7 @@ body.homepage #luxury-rooms, body.homepage #special-dishes {
     display: inline-block;
     padding: 7px 25px;
     background: #dba752;
-    font-size: .8em;
+    font-size: 1em;
     letter-spacing: 2px;
     color: #000000;
     margin-bottom: 0;
@@ -15629,7 +15629,9 @@ body.contact.type-2 .contact-info-inner {
     margin-bottom: 20px;
     letter-spacing: -1px; }
   .contact-page-container .contact-form-container .how-contact .desc {
-    line-height: 25px; }
+    line-height: 25px;
+    font-size: 1.5em;
+    }
     @media (max-width: 767px) {
       .contact-page-container .contact-form-container .how-contact .desc {
         margin-bottom: 20px; } }
@@ -16479,3 +16481,21 @@ form.comment-form {
       width: 100%;
       min-width: 0; } }
 .scrollclass { max-height:200px; }
+/** Airbnb **/
+.airbnb-promo {
+    font-size: 1.5em;
+    padding-top: 20px;
+}
+.airbnb-promo img {
+    width: 7%;
+    height: 7%;
+}
+.airbnb-promo a {
+    font-weight: bold;
+}
+.airbnb-promo b {
+    color: #ED5558;
+}
+.inner-content {
+    padding-bottom: 10px;
+}
