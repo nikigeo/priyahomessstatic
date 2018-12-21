@@ -1,4 +1,7 @@
 <?php include ('header.php'); ?>
+<?php 
+$_REQUEST["pagename"] = "contact";
+?>
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
 <div class="internal-page-title about-page" data-parallax="scroll" data-image-src="images/contact-header.jpg">
