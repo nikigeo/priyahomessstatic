@@ -36,13 +36,41 @@
             <!-- Main Menu -->
             <nav id="main-menu" class="">
                 <ul class="list-inline pull-right">
-                    <li class="active"><a href="index.php">Home</a> </li>
-                    <li><a href="aboutus.php">About Us</a></li>
-                    <li><a href="facilities.php">Facilities</a></li>
-                    <li><a href="gallerydetails.php">Gallery</a></li>
-                    <li><a href="locationmap.php">Location Map</a></li>
-                    <li><a href="testimonials.php">Testimonials</a></li>
-                    <li><a href="contact.php">Contact</a></li>
+                    <li <?php 
+						if ($_REQUEST["pagename"] == null || $_REQUEST["pagename"] == "home"){
+							echo "class='active'";
+						}
+						?> ><a href="index.php">Home</a> </li>
+                    <li <?php 
+						if ($_REQUEST["pagename"] == "aboutus"){
+							echo "class='active'";
+						}
+						?> ><a href="aboutus.php">About Us</a></li>
+                    <li <?php 
+						if ($_REQUEST["pagename"] == "facilities"){
+							echo "class='active'";
+						}
+						?> ><a href="facilities.php">Facilities</a></li>
+                    <li <?php 
+						if ($_REQUEST["pagename"] == "gallery"){
+							echo "class='active'";
+						}
+						?> ><a href="gallerydetails.php">Gallery</a></li>
+                    <li <?php 
+						if ($_REQUEST["pagename"] == "location"){
+							echo "class='active'";
+						}
+						?> ><a href="locationmap.php">Location Map</a></li>
+                    <li <?php 
+						if ($_REQUEST["pagename"] == "testimonials"){
+							echo "class='active'";
+						}
+						?> ><a href="testimonials.php">Testimonials</a></li>
+                    <li <?php 
+						if ($_REQUEST["pagename"] == "contact"){
+							echo "class='active'";
+						}
+						?> ><a href="contact.php">Contact</a></li>
                 </ul>
             </nav>
 

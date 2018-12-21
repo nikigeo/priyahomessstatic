@@ -1,4 +1,7 @@
 <?php include ('header.php'); ?>
+<?php 
+$_REQUEST["pagename"] = "home";
+?>
 <body class="homepage trans-header sticky white-datepicker">
 <?php include_once("analyticstracking.php") ?>
 <?php include ('topbar.php'); ?>
