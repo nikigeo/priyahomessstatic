@@ -19,6 +19,10 @@ $_REQUEST["pagename"] = "home";
         <div class="subtitle" style="color:#000; font-weight:bold;">
             YOUR HOME AWAY FROM HOME
         </div><!-- Subtitle -->
+        <a href="images/gallery/homestay_certificate_2018-2021.jpg">
+            <img src="images/gallery/thumbnails/homestay_certificate_2018-2021.jpg" />
+        </a>
+        <div>(A Government Certificate Homestay)</div>
     </div>
     <!-- Inner section -->
     <div class="inner-content">
