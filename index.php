@@ -22,7 +22,7 @@ $_REQUEST["pagename"] = "home";
         <a href="images/gallery/homestay_certificate_2018-2021.jpg">
             <img src="images/gallery/thumbnails/homestay_certificate_2018-2021.jpg" />
         </a>
-        <div>(A Government Certificate Homestay)</div>
+        <div>(A Government Certified Homestay)</div>
     </div>
     <!-- Inner section -->
     <div class="inner-content">
