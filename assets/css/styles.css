@@ -12961,9 +12961,9 @@
 	  text-align: center;
 	  margin: 60px 0; }
 	  .heading-box h2 {
-		color: #ddd;
+		color: #2c376a;
 		display: inline-block;
-		border-bottom: 1px solid #ddd;
+		border-bottom: 1px solid #2c376a;
 		padding: 0 20px 20px;
 		margin: 20px 0;
 		font-size: 40px;
@@ -13004,7 +13004,7 @@
 		  font-size: 30px; } }
 
 	.btn-secondary {
-	  background: #FFFFFF;
+	  background: #2c376a;
 	  border: 1px solid #ddd;
 	  color: #ddd; }
 	  .btn-secondary:hover {
@@ -14168,7 +14168,7 @@
 		max-width: 900px; }
 	  #buy-theme .title {
 		font-size: 22px;
-		color: #ddd;
+		color: #2c376a;
 		float: left;
 		line-height: 30px; }
 		#buy-theme .title span {
