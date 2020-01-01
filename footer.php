@@ -48,7 +48,7 @@
         </ul>
     </nav>
     <div class="copy-right">
-        &copy; 2014 Athithi Homes. All Rights Reserved.
+        &copy; 2014 Priya Homes. All Rights Reserved.
     </div>
 </footer>
 <!-- End of Footer -->
