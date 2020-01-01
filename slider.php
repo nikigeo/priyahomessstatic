@@ -9,17 +9,17 @@
         </div>
         <div class="items">
             <a href="#" >
-                <img src="images/gallery/3.jpg" alt="3"/>
+                <img src="images/gallery/2.jpg" alt="3"/>
             </a>
         </div>
         <div class="items" >
             <a href="#" >
-                <img src="images/gallery/10.jpg" alt="4"/>
+                <img src="images/gallery/3.jpg" alt="4"/>
             </a>
         </div>
         <div class="items">
             <a href="#" >
-                <img src="images/gallery/11.jpg" alt="2"/>
+                <img src="images/gallery/4.jpg" alt="2"/>
             </a>
         </div>
     </div>
