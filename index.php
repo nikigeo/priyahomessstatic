@@ -20,8 +20,9 @@ $_REQUEST["pagename"] = "home";
     <!-- Inner section -->
     <div class="inner-content">
         <div style=" text-align:left; color:#000; font-weight:400; font-size:16px;">
-            Priya Homes is committed to help you, for a spacious, homely, safe environment with fresh air, and clean water for a Homestay at Ernakulam city. Here you find a calm and quiet Kerala living experience with all modern facilities at a very affordable charges.<br><br>Athithi Homes is situated in a quiet green neighborhood away from the hassles of the city. We believe that “Atithi Devo Bhava” derived from Sanskrit means “The guest is equivalent to God”. Priya Homes is in the city center close to railway stations, transportation hubs, leisure destinations and great shopping areas.<br><br>
-            Homestay’s are more friendlier than any closed doors hotel rooms. Visitors can experience the cultural and lifestyle of the nearby places and food.<br><br>
+            Priya Homes is committed to help you, for a spacious, homely, safe environment with fresh air, and clean water. Here you find a calm and quiet Kerala-village experience with all modern facilities at very affordable rates.<br /><br />
+			Priya Homes wishes to offer a medical tourism facility, which is part of Kerala tourism cum quality medical facility.<br /><br />
+			
             During the stay, you can make a short visit to all the main tourist attractive places like Thekkady wild sanctuary, Peerumedu, Wagamon, Munnar hill stations, Cochin Lake backwater, Cochin-Alleppey-Kumarakom backwaters, for a change, relaxation and sightseeing.<br><br>
         </div>
     </div>
