@@ -5,7 +5,7 @@ $_REQUEST["pagename"] = "aboutus";
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
 <div class="internal-page-title about-page" data-parallax="scroll" data-image-src="images/internal-header.jpg">
-    <h1>About <span>Priya Homes</span> at Koothattukulam, Kerala</h1>
+    <h1>About <span>Priya Homes</span></h1>
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>
         <li class="active">About Priya Homes Koothattukulam Kerala</li>
@@ -27,7 +27,7 @@ $_REQUEST["pagename"] = "aboutus";
         <div style=" text-align:left; color:#000; font-weight:400; font-size:16px;">
             Priya Homes is committed to help you, for a spacious, homely, safe environment with fresh air, and clean water. Here you find calm and quiet Kerala-village experience with all modern facilities at very affordable rates.<br>
 			Also during the stay, you can make a short visit to all the main tourist attractive places like Thekkady Wild Sanctuary, Peerumedu, Wagamon, Munnar hill stations, Cochin-Alleppey-Kumarakom backwaters, for a change, relaxation and sightseeing.<br>
-			Priya Homes wishes to offer a medical tourism facility, which is part of Kerala tourism cum quality medical facility.
+			Priya Homes wishes to offer a medical tourism facility, which is part of Kerala tourism cum quality medical facility.<br/>
 
             <!-- Inner section --><b>The following areas are located near to Priya Homes:</b>
             <div class="desc">
