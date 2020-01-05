@@ -20,22 +20,22 @@ $_REQUEST["pagename"] = "contact";
 
 
     <div class="widget col-xs-6 col-md-4 get-in-touch" style="padding:20px;  color:#000;">
-        <h4>Kadavanthra, Cochin</h4>
+        <h4>Koothattukulam, Kera</h4>
         <div class="widget-content">
             <ul>
-                <li  style="color:#000; font-weight:600;"><i class="fa fa-map-marker "></i> Kumaranasan Nagar, Kadavanthra, Kochi</li>
+                <li  style="color:#000; font-weight:600;"><i class="fa fa-map-marker "></i> Priya Homes, Near Sreedhareeyam Hospital, Koothattukulam, Kerala</li>
 
-                <li style="color:#000; font-weight:600;"><i class="fa fa-phone"></i> +91 99612 62624</li>
-                <li style="color:#000; font-weight:600;"><i class="fa fa-envelope-o"></i> athithihome@gmail.com</li>
+                <li style="color:#000; font-weight:600;"><i class="fa fa-phone"></i> +91 99612 62624, +91 97470 33339</li>
+                <li style="color:#000; font-weight:600;"><i class="fa fa-envelope-o"></i> homespriya@gmail.com</li>
             </ul>
-            <ul class="list-inline social-icons">
+<!-- <ul class="list-inline social-icons">
                 <li><a href="#"><i class="fa fa-facebook "></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                 <li><a href="#"><i class="fa fa-skype"></i></a></li>
                 <li><a href="#"><i class="fa fa-youtube"></i></a></li>
             </ul>
-
+-->
         </div>
     </div>
     <!-- Contact Form -->

@@ -30,24 +30,7 @@ $_REQUEST["pagename"] = "location";
             <h4><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Ernakulam KSRTC Bus Station 2 km</h4>
             <h4><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Ernakulam South Railway Station 3 Km</h4>
             <h4><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Ernakulam North Railway Station 4 Km</h4>
-        </div>
-
-        <div class="post-box">
-            <a href="#">
-                <img src="images/locationmap/Athithi Homes Location Ernakulam.jpg"  alt="Ernakulam" width="1300" height="676">
-            </a>
-        </div>
-        <div class="post-box">
-            <a href="#">
-                <img src="images/locationmap/Athithi Homes Location Kadavanthra Kochi.jpg" width="1300" height="676" alt="Kadavanthra">
-            </a>
-        </div>
-        <div class="post-box">
-            <a href="#">
-                <img src="images/locationmap/Athithi Homes Kumaranasan Nagar.jpg" width="1300" height="676" alt="Kumaranasan nagar" >
-            </a>
-        </div>
-
+        </div>       
     </div>
 </div>
 <?php include ('homestaymessage.php'); ?>
