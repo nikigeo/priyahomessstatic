@@ -4,14 +4,8 @@
         <ul class="contact-info list-inline">
             <li><i class="fa fa-phone"></i>+91 9961262624</li>
             <li><i class="fa fa-phone"></i>+91 97470 33339</li>
-            <li><i class="fa fa-envelope-o"></i>athithihome@gmail.com</li>
+            <li><i class="fa fa-envelope-o"></i>homespriya@gmail.com</li>
         </ul>
-
-        <!-- Language Switcher -->
-        <select id="language-switcher">
-            <option value="1">English</option>
-        </select>
-        <!-- End of Language Switcher -->
     </div>
 </div>
 <!-- End of Top Header -->
