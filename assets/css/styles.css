@@ -14394,7 +14394,7 @@
 		background: #ddd;
 		font-size: 1em;
 		letter-spacing: 2px;
-		color: #000000;
+		color: #D1E0EB;
 		margin-bottom: 0;
 		position: absolute;
 		left: 50%;
@@ -14407,18 +14407,18 @@
 		  .internal-page-title .breadcrumb {
 			display: none; } }
 		.internal-page-title .breadcrumb a {
-		  color: #000000; }
+		  color: #2c376a; }
 		  .internal-page-title .breadcrumb a:hover {
-			color: #FFFFFF; }
+			color: #2c376a; }
 		.internal-page-title .breadcrumb > li + li:before {
-		  color: #000000;
+		  color: #2c376a;
 		  content: "::";
 		  padding: 0 10px; }
 		  @media (min-width: 768px) and (max-width: 992px) {
 			.internal-page-title .breadcrumb > li + li:before {
 			  padding: 0 5px; } }
 		.internal-page-title .breadcrumb > .active {
-		  color: #FFFFFF;
+		  color: #2c376a;
 		  font-weight: bold; }
 
 	#welcome {
