@@ -23,7 +23,7 @@
             <!-- Top Logo -->
             <div id="top-logo">
                 <a href="index.php">
-                    <img src="images/logo/athithilogo.png" class="img-responsive">
+                    <img src="images/logo/logo.png" class="img-responsive">
                 </a>
             </div>
         </div>
