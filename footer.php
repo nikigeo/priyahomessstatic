@@ -15,19 +15,11 @@
             <h4>Get in Touch</h4>
             <div class="widget-content">
                 <ul>
-                    <li><i class="fa fa-map-marker "></i>#8, Kumaranasan Nagar, Kadavanthra, Kochi-20</li>
+                    <li><i class="fa fa-map-marker "></i>Priya Homes, Near Sreedhareeyam Hospital, Koothattukulam, Kerala</li>
 
                     <li><i class="fa fa-phone"></i>+91 99612 62624, +91 97470 33339</li>
-                    <li><i class="fa fa-envelope-o"></i>athithihome@gmail.com</li>
+                    <li><i class="fa fa-envelope-o"></i>homespriya@gmail.com</li>
                 </ul>
-                <ul class="list-inline social-icons">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                </ul>
-
             </div>
         </div>
     </div>
@@ -48,7 +40,7 @@
         </ul>
     </nav>
     <div class="copy-right">
-        &copy; 2014 Priya Homes. All Rights Reserved.
+        &copy; 2020 Priya Homes. All Rights Reserved.
     </div>
 </footer>
 <!-- End of Footer -->
