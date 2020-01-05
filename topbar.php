@@ -54,7 +54,7 @@
 						if ($_REQUEST["pagename"] == "location"){
 							echo "class='active'";
 						}
-						?> ><a href="locationmap.php">Location Map</a></li>
+						?> ><a href="locationmap.php">Location</a></li>
                     <li <?php 
 						if ($_REQUEST["pagename"] == "testimonials"){
 							echo "class='active'";
