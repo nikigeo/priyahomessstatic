@@ -63,7 +63,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#474742', end
 	font-weight: 200;
 	color: #FFF;
 	text-align:center;
-	"> Book Athithi Homes Online, Get Instant Confirmation </font>
+	"> Book Priya Homes Online, Get Instant Confirmation </font>
 	</td>
     </tr>
   <tr>
