@@ -15,14 +15,7 @@ $_REQUEST["pagename"] = "home";
 <div id="welcome" class="container">    
     <!-- Heading box -->
     <div class="heading-box">
-        <h1>Welcome to <span>Priya Homes Koothattukulam, Kerala</span></h1><!-- Title -->
-        <div class="subtitle" style="color:#000; font-weight:bold;">
-            YOUR HOME AWAY FROM HOME
-        </div><!-- Subtitle -->
-        <a href="images/gallery/homestay_certificate_2018-2021.jpg">
-            <img src="images/gallery/thumbnails/homestay_certificate_2018-2021.jpg" />
-        </a>
-        <div>(A Government Certified Homestay)</div>
+        <h1>Welcome to <span>Priya Homes Koothattukulam, Kerala</span></h1><!-- Title -->        
     </div>
     <!-- Inner section -->
     <div class="inner-content">
