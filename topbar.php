@@ -75,7 +75,7 @@
             </nav>
 
             <!-- Menu Handle -->
-            <div id="main-menu-handle" class="hidden-md hidden-lg">888<i class="fa fa-bars"></i></div>
+            <div id="main-menu-handle" class="hidden-md hidden-lg"><i class="fa fa-bars"></i></div>
         </div>
     </div>
     <div id="mobile-menu-container" class="hidden-md hidden-lg"></div>

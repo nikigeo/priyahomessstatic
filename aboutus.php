@@ -4,11 +4,11 @@ $_REQUEST["pagename"] = "aboutus";
 ?>
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
-<div class="internal-page-title about-page" data-parallax="scroll" data-image-src="images/internal-header.jpg">
+<div class="internal-page-title about-page" data-parallax="scroll" data-image-src="">
     <h1>About <span>Priya Homes</span></h1>
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>
-        <li class="active">About Priya Homes Koothattukulam Kerala</li>
+        <li class="active">About Priya Homes Koothattukulam</li>
     </ol>
 </div>
 <!-- End of Internal Page Header -->
