@@ -103,12 +103,21 @@
             <li class="item col-xs-6 col-md-2">
                 <figure>
                     <img src="images/gallery/thumbnails/11.jpg" alt="homestay at Koothattukulam"/>
-                    <a href="images/gallery/11.jpg" class="more-details" data-title="Kitchen">Kitchen</a>
+                    <a href="images/gallery/11.jpg" class="more-details" data-title="Kitchen Entrance">Kitchen Entrance</a>
+                    <figcaption>
+                        <h4>Kitchen <span>Entrance</span></h4>
+                    </figcaption>
+                </figure>
+            </li>
+			<li class="item col-xs-6 col-md-2">
+                <figure>
+                    <img src="images/gallery/thumbnails/12.jpg" alt="homestay at Koothattukulam"/>
+                    <a href="images/gallery/12.jpg" class="more-details" data-title="Kitchen">Kitchen</a>
                     <figcaption>
                         <h4>Kitchen</h4>
                     </figcaption>
                 </figure>
-            </li>            
+            </li>
         </ul>
     </div>
 </div>

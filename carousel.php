@@ -8,4 +8,5 @@
     <img src="images/gallery/thumbnails/9.jpg" class="scrollclass" alt="">&nbsp;
     <img src="images/gallery/thumbnails/10.jpg" class="scrollclass" alt="">&nbsp;
 	<img src="images/gallery/thumbnails/11.jpg" class="scrollclass" alt="home">&nbsp;
+	<img src="images/gallery/thumbnails/12.jpg" class="scrollclass" alt="home">&nbsp;
  </marquee>
