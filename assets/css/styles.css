@@ -2902,7 +2902,7 @@
 
 	.btn-default {
 	  color: #FFFFFF;
-	  background-color: #ddd;
+	  background-color: #2c376a;
 	  border-color: #ddd; }
 	  .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .btn-default.dropdown-toggle {
 		color: #FFFFFF;
