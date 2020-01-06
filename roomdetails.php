@@ -21,7 +21,7 @@
 
 	<div id="buy-theme">
 		<div class="inner-container container">
-			<div class="title">Are You Looking For <span>Home</span> <span>Stay</span> at Vyttila,Kochi</div>
+			<div class="title">Are You Looking For <span>Home</span> <span>Stay</span> Koothattukulam, Kerala</div>
 			<a href="#" class="btn btn-secondary">Contact Us +91 9961262624</a>
 		</div>
 	</div>
