@@ -56,10 +56,10 @@
 						}
 						?> ><a href="locationmap.php">Location</a></li>
                     <li <?php 
-						if ($_REQUEST["pagename"] == "testimonials"){
+						if ($_REQUEST["pagename"] == "booking"){
 							echo "class='active'";
 						}
-						?> ><a href="testimonials.php">Testimonials</a></li>
+						?> ><a href="booking.php">Book Online</a></li>
                     <li <?php 
 						if ($_REQUEST["pagename"] == "contact"){
 							echo "class='active'";
