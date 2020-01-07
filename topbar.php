@@ -50,11 +50,11 @@
 							echo "class='active'";
 						}
 						?> ><a href="gallerydetails.php">Gallery</a></li>
-                    <li <?php 
+                <!-- <li <?php 
 						if ($_REQUEST["pagename"] == "location"){
 							echo "class='active'";
 						}
-						?> ><a href="locationmap.php">Location</a></li>
+						?> ><a href="locationmap.php">Location</a></li> -->
                     <li <?php 
 						if ($_REQUEST["pagename"] == "booking"){
 							echo "class='active'";

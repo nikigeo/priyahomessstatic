@@ -34,7 +34,7 @@
             <li><a href="aboutus.php">Aboutus</a></li>
             <li><a href="facilities.php">Facilities</a></li>
             <li><a href="gallerydetails.php">Gallery</a></li>
-            <li><a href="locationmap.php">Location Map</a></li>
+            <!-- <li><a href="locationmap.php">Location Map</a></li> -->
             <li><a href="booking.php">Book Online</a></li>
             <li><a href="contact.php">Contact</a></li>
         </ul>
