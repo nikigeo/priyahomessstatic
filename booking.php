@@ -14,6 +14,7 @@ $_REQUEST["pagename"] = "booking";
 <div id="welcome" class="container">
     <!-- Inner section -->
     <div class="inner-content">	
+		<br />
 		<a href="https://www.instamojo.com/@priyahomes/">
 			Pay Now With instamojo<img src="images/instamojo.png" "alt="pay online">
 		</a><br/>
