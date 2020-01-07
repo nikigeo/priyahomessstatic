@@ -16504,3 +16504,7 @@
 		font-weight:400; 
 		font-size:16px;	
 	}
+	.inner-content a {
+		color:#2c376a;
+		font-size:16px;
+	}
