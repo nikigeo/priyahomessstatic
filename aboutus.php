@@ -24,7 +24,7 @@ $_REQUEST["pagename"] = "aboutus";
     </div>
     <!-- Inner section -->
     <div class="inner-content">
-        <div style=" text-align:left; color:#000; font-weight:400; font-size:16px;">
+        <div>
             Priya Homes is committed to help you, for a spacious, homely, safe environment with fresh air, and clean water. Here you find calm and quiet Kerala-village experience with all modern facilities at very affordable rates.<br/><br/>
 			Also during the stay, you can make a short visit to all the main tourist attractive places like Thekkady Wild Sanctuary, Peerumedu, Wagamon, Munnar hill stations, Cochin-Alleppey-Kumarakom backwaters, for a change, relaxation and sightseeing.<br/><br/>
 			Priya Homes wishes to offer a medical tourism facility, which is part of Kerala tourism cum quality medical facility.<br/><br/>
