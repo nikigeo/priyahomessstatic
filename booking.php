@@ -15,12 +15,14 @@ $_REQUEST["pagename"] = "booking";
     <!-- Inner section -->
     <div class="inner-content">	
 		<br />
-		<a href="https://www.instamojo.com/@priyahomes/">
-			Pay Now With instamojo<img src="images/instamojo.png" "alt="pay online">
-		</a><br/>
-		<a href="https://www.payumoney.com/customer/users/paymentOptions/#/E08FC403FFFB7E1F8EF90EC7BA23EE78/priyahomes/187823 ">
-			Pay Now With PayU<img src="images/payu.png" "alt="pay online">
-		</a>
+		<div class="booking">
+			<a href="https://www.instamojo.com/@priyahomes/">
+				Pay Now With instamojo<img src="images/instamojo.png" "alt="pay online">
+			</a><br/>
+			<a href="https://www.payumoney.com/customer/users/paymentOptions/#/E08FC403FFFB7E1F8EF90EC7BA23EE78/priyahomes/187823 ">
+				Pay Now With PayU<img src="images/payu.png" "alt="pay online">
+			</a>
+		</div>
     </div>
 </div>
 
