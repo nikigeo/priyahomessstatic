@@ -16507,6 +16507,5 @@
 	.payment-btn {
 		color: #2c376a;}
 	.payment-btn:hover {
-		background: #2c376a;
-		color: #ddd; }
+		font-weight: bold; }
 	

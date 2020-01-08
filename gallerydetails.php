@@ -4,7 +4,7 @@ $_REQUEST["pagename"] = "gallery";
 ?>
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
-<div class="internal-page-title about-page" data-parallax="scroll" data-image-src="images/internal-header.jpg">
+<div class="internal-page-title about-page">
     <h1> <span>Priya Homes</span> Gallery</h1>
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>
