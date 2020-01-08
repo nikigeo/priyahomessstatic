@@ -16504,7 +16504,9 @@
 		font-weight:400; 
 		font-size:16px;		
 	}
-	.booking .a{
-		color:  #2c376a;
-	}
+	.payment-btn {
+		color: #2c376a;}
+	.payment-btn:hover {
+		background: #2c376a;
+		color: #ddd; }
 	
