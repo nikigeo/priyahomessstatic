@@ -4,7 +4,7 @@ $_REQUEST["pagename"] = "facilities";
 ?>
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
-<div class="internal-page-title about-page>
+<div class="internal-page-title>
     <h1>Facilities in<span> Priya Homes</span></h1>
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>

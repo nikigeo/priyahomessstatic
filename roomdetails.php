@@ -1,7 +1,7 @@
 <?php include ('header.php'); ?>
 <body class="homepage trans-header sticky white-datepicker">
     <?php include ('topbar.php'); ?>
-		<div class="internal-page-title about-page" data-parallax="scroll" data-image-src="assets/img/internal-header.jpg">
+		<div class="internal-page-title>
 		<h1><span>Athithi Homestay at Kochi details><!-- Internal Page Breadcrumb -->
             <li><a href="index.php">Home</a></li>
             <li class="active">Rooms</li>

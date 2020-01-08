@@ -4,7 +4,7 @@ $_REQUEST["pagename"] = "contact";
 ?>
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
-<div class="internal-page-title about-page">
+<div class="internal-page-title">
     <h1><span>Contact</span> us</h1>
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>

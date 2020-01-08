@@ -14362,7 +14362,7 @@
 	  background-size: cover;
 	  background-position: center;
 	  text-align: center;
-	  padding: 170px 0 70px;
+	  padding: 80px 0 70px;
 	  position: relative;
 	  z-index: 1;
 	  border-bottom: 3px solid #ddd; }
@@ -14380,7 +14380,7 @@
 		height: 100%;
 		background: #2c376a; }
 	  .internal-page-title h1 {
-		font-size: 38px;
+		font-size: 30px;
 		margin: 0;
 		letter-spacing: -1px;
 		color: #ddd; }
