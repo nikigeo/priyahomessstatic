@@ -5,7 +5,6 @@ $_REQUEST["pagename"] = "testimonials";
 <body class="homepage trans-header sticky white-datepicker" xmlns="http://www.w3.org/1999/html">
 <?php include ('topbar.php'); ?>
 <div class="internal-page-title">
-    <h1>Testimonials </span></h1>
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>
         <li class="active">Testimonials</li>

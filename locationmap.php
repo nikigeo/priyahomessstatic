@@ -4,8 +4,7 @@ $_REQUEST["pagename"] = "location";
 ?>
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
-<div class="internal-page-title about-page">
-    <h1>Location Details</h1>
+<div class="internal-page-title">
     <ol class="breadcrumb"><!-- Internal Page Breadcrumb -->
         <li><a href="index.php">Home</a></li>
         <li class="active">LocationMap</li>

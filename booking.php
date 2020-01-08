@@ -5,7 +5,6 @@ $_REQUEST["pagename"] = "booking";
 <body class="homepage trans-header sticky white-datepicker">
 <?php include ('topbar.php'); ?>
 <div class="internal-page-title">
-    <h1>Booking Online</span></h1>
     <ol class="breadcrumb">
         <li><a href="index.php">Home</a></li>
         <li class="active">Booking</li>
