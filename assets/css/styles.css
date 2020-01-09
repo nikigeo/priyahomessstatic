@@ -12961,6 +12961,9 @@
 	.heading-box {
 	  text-align: center;
 	  margin: 35px 0; }
+	  .heading-box h1{
+		font-size: 29px;
+		}
 	  .heading-box h2 {
 		color: #2c376a;
 		display: inline-block;
@@ -13573,7 +13576,7 @@
 		#main-slider .owl-item.active, #fullscreen-slider .owl-item.active, #room-details-slider .owl-item.active {
 		  opacity: 1;
 		  filter: alpha(opacity=100); }
-	   @media (max-width: 992px) {
+	   @media (max-width: 400px) {
 		#main-slider .owl-controls, #fullscreen-slider .owl-controls, #room-details-slider .owl-controls {
 		  bottom: 30px; }
 		#main-slider .items, #fullscreen-slider .items, #room-details-slider .items {
@@ -14408,7 +14411,9 @@
 		@media (max-width: 767px) {
 		  .internal-page-title .breadcrumb {
 			display: block; 
-			padding: 0px 0px; } }
+			padding: 0px 0px;
+			font-size: .85em;
+			letter-spacing: 0px; } }
 		.internal-page-title .breadcrumb a {
 		  color: #2c376a; }
 		  .internal-page-title .breadcrumb a:hover {
