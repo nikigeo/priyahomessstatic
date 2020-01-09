@@ -17,7 +17,7 @@ $_REQUEST["pagename"] = "aboutus";
     <!-- Heading box -->
     <div class="heading-box">
         <h1>Welcome to <span>Priya Homes Koothattukulam</span></h1><!-- Title -->
-        <div class="subtitle" style="color:#000; font-weight:bold;">
+        <div class="subtitle">
             YOUR HOME AWAY FROM HOME
         </div><!-- Subtitle -->
     </div>

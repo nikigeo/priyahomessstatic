@@ -12960,7 +12960,7 @@
 	 */
 	.heading-box {
 	  text-align: center;
-	  margin: 60px 0; }
+	  margin: 35px 0; }
 	  .heading-box h2 {
 		color: #2c376a;
 		display: inline-block;
@@ -12999,7 +12999,8 @@
 		  font-weight: bold; }
 	  .heading-box .subtitle {
 		font-size: 16px;
-		font-weight: 300; }
+		font-weight: bold; 
+		}
 	  @media (max-width: 767px) {
 		.heading-box h2 {
 		  font-size: 30px; } }
@@ -14406,7 +14407,8 @@
 		transform: translateX(-50%); }
 		@media (max-width: 767px) {
 		  .internal-page-title .breadcrumb {
-			display: block; } }
+			display: block; 
+			padding: 0px 0px; } }
 		.internal-page-title .breadcrumb a {
 		  color: #2c376a; }
 		  .internal-page-title .breadcrumb a:hover {
