@@ -13845,7 +13845,8 @@
 			-webkit-transform: translateX(0) translateY(0);
 			transform: translateX(0) translateY(0); }
 			#main-booking-form.style-2 h2 {
-			  margin: 0 0 30px; }
+			  margin: 0 0 30px; 
+			  color: #2c376a;}
 			#main-booking-form.style-2 .booking-form {
 			  width: 100%; }
 			  #main-booking-form.style-2 .booking-form .booking-fields {
