@@ -14369,7 +14369,7 @@
 	  @media (max-width: 992px) {
 		.internal-page-title {
 		  margin-top: 0;
-		  padding: 110px 0; } }
+		  padding: 20px 0; } }
 	  .internal-page-title:before {
 		z-index: -1;
 		position: absolute;
@@ -14406,7 +14406,7 @@
 		transform: translateX(-50%); }
 		@media (max-width: 767px) {
 		  .internal-page-title .breadcrumb {
-			display: none; } }
+			display: block; } }
 		.internal-page-title .breadcrumb a {
 		  color: #2c376a; }
 		  .internal-page-title .breadcrumb a:hover {
