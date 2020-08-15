@@ -21,8 +21,6 @@ $_REQUEST["pagename"] = "home";
     <div class="inner-content">
         <div>
             Priya Homes is committed to help you, for a spacious, homely, safe environment with fresh air, and clean water. Here you find a calm and quiet Kerala-village experience with all modern facilities at very affordable rates.<br /><br />
-			
-	    Priya Homes wishes to offer a medical tourism facility, which is part of Kerala tourism cum quality medical facility.<br /><br />
 		
 	    <strong>Now we are offering accomdation for working Women at afforable rates. Fully Safe and secure place with modern facilities and Lady caretaker.</strong>
 	    For more details, contact us +91 97470 33339.<br/> <br />
