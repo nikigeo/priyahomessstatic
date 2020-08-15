@@ -24,8 +24,6 @@ $_REQUEST["pagename"] = "home";
 		
 	    <strong>Now we are offering accomdation for working Women at afforable rates. Fully Safe and secure place with modern facilities and Lady caretaker.</strong>
 	    For more details, contact us +91 97470 33339.<br/> <br />
-		
-		During the stay, you can make a short visit to all the main tourist attractive places like Thekkady wild sanctuary, Peerumedu, Wagamon, Munnar hill stations, Cochin Lake backwater, Cochin-Alleppey-Kumarakom backwaters, for a change, relaxation and sightseeing.<br><br>
         </div>
     </div>
     <div class="col-md-12">
