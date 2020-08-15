@@ -1,6 +1,8 @@
 <div id="top-footer">
     <div id="go-up-box"><i class="fa fa-chevron-up"></i></div>
-    <div class="inner-container container">        
+    <div class="inner-container container">
+	<div class="inner-container container">
+	</div>
         <div class="widget col-xs-6 col-md-4 get-in-touch">
             <h4>Get in Touch</h4>
             <div class="widget-content">
