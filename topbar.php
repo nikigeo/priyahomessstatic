@@ -59,7 +59,7 @@
 						if ($_REQUEST["pagename"] == "booking"){
 							echo "class='active'";
 						}
-						?> ><a href="booking.php">Book Online</a></li>
+						?> ><a href="booking.php">Pay Online</a></li>
                     <li <?php 
 						if ($_REQUEST["pagename"] == "contact"){
 							echo "class='active'";
