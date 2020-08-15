@@ -1,16 +1,6 @@
 <div id="top-footer">
     <div id="go-up-box"><i class="fa fa-chevron-up"></i></div>
-    <div class="inner-container container">
-        <div class="widget col-xs-6 col-md-4">
-            <div class="widget-content">
-                <a class="col-md-6" href="https://www.keralatourism.org/" target="_blank">
-                    <img src="images/kerala-tourism_1.jpg" class="img-responsive" style=" margin-bottom:5px;"/>
-                </a>
-                <a class="col-md-6" href="http://www.ktdc.com/" target="_blank">
-                    <img src="images/ktdc.jpg" class="img-responsive"/>
-                </a>
-            </div>
-        </div>
+    <div class="inner-container container">        
         <div class="widget col-xs-6 col-md-4 get-in-touch">
             <h4>Get in Touch</h4>
             <div class="widget-content">
