@@ -25,6 +25,7 @@
     </div>
 
     <!-- Booking Form -->
+    <!--
     <div class="booking-form-container container">
         <div class="booking-form-inner-container">
             <div id="main-booking-form" class="style-2">
@@ -52,5 +53,5 @@
                 </form>
             </div>
         </div>
-    </div>
+    </div> -->
 </div>
